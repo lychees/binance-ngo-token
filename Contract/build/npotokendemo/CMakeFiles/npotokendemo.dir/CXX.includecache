@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/src/../include/npotokendemo.hpp
+eosiolib/eosio.hpp
+-
+eosiolib/asset.hpp
+-
+eosiolib/singleton.hpp
+-
+string
+-
+
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/src/npotokendemo.cpp
+npotokendemo.hpp
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/src/npotokendemo.hpp
+

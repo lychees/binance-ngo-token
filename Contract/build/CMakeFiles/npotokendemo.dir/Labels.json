@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo-complete.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-install.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-mkdir.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-download.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-update.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-patch.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-configure.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-build.rule"
+		},
+		{
+			"file" : "/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"npotokendemo"
+		],
+		"name" : "npotokendemo"
+	}
+}

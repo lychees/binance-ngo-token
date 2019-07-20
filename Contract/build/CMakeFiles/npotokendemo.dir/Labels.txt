@@ -1,0 +1,14 @@
+# Target labels
+ npotokendemo
+# Source files and their labels
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/CMakeFiles/npotokendemo-complete.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-install.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-mkdir.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-download.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-update.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-patch.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-configure.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-build.rule
+/Users/minakokojima/Documents/GitHub/binance-ngo-token/Contract/build/npotokendemo-prefix/src/npotokendemo-stamp/npotokendemo-test.rule

@@ -1,0 +1,1 @@
+//usr/local/bin/eosio-ld  CMakeFiles/npotokendemo.dir/npotokendemo.cpp.obj -o npotokendemo.wasm 
